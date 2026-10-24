@@ -1,0 +1,16 @@
+Feature,Importance
+categorical__Shipping Mode_Standard Class,0.3596687106792408
+categorical__Shipping Mode_First Class,0.2685033397049272
+categorical__Shipping Mode_Second Class,0.14203175159018858
+categorical__Type_TRANSFER,0.03727268529215502
+categorical__Shipping Mode_Same Day,0.02754386640226776
+numeric__Longitude,0.009292233507246962
+numeric__Latitude,0.008920470009185843
+numeric__Order Profit Per Order,0.006253499047315763
+numeric__Benefit per order,0.006251618450034596
+categorical__Type_DEBIT,0.006109205042150484
+numeric__Order Item Total,0.005432384665973197
+categorical__Type_PAYMENT,0.0053218612306934875
+numeric__Order Item Discount,0.005305578176245547
+numeric__Sales per customer,0.005269891930278158
+numeric__Order Item Discount Rate,0.005100351266345995
